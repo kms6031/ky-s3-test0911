@@ -1,0 +1,28 @@
+{
+  "name": "ky-s3-test0911",
+  "version": "1.0.0",
+  "description": "ky-s3-test0911",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kms6031/ky-s3-test0911.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kms6031/ky-s3-test0911/issues"
+  },
+  "homepage": "https://github.com/kms6031/ky-s3-test0911#readme",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.886.0",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "multer-s3": "^3.0.1",
+    "nodemon": "^3.1.10"
+  }
+}
